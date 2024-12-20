@@ -1,12 +1,6 @@
-<p>
-  <h1>
-      Hi! My name is Alejandro 👋
-     <h2>
-      I am a frontend developer passionate about web development.
-  </h2>
-  </h1> 
+## Hi! My name is Alejandro 👋
+### I am a frontend developer passionate about web development.
  
-</p>
 
 
 ### 🦄 Languages:  
