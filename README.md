@@ -1,7 +1,7 @@
 # Hi! My name is Alejandro 👋
-### I am a frontend developer passionate about web development.
- 
+## I am a frontend developer passionate about web development.
 
+<br>
 
 ### 🦄 Languages:  
 - **Frontend:** HTML, CSS, JavaScript, TypeScript.  
