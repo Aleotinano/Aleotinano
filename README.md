@@ -6,7 +6,7 @@
 ### 🦄 Languages:  
 - **Frontend:** HTML, CSS, JavaScript, TypeScript.  
 - **Backend:** Node.js (with Express), MySQL.  
-
+<br>
 ### 📚 Skills:  
 - Fetch API.  
 - Responsive Design.  
