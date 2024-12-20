@@ -1,7 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
- # Hi! My name is Alejandro 👋<br>
+<h1 align="left"> 
+ Hi! My name is Alejandro 👋
+</h1>
+ 
+ <br>
  ## I am a frontend developer passionate about web development.
 </p>
 
