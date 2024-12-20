@@ -3,11 +3,10 @@
 <h1 align="left"> 
  Hi! My name is Alejandro 👋
 </h1>
- 
- <br>}
-<h3 align="left"> 
+ <br>
+<h2 align="left"> 
  ## I am a frontend developer passionate about web development.
-</h3>
+</h2>
 
 <p align="left">
   🦄  ## Languages: HTML, CSS, JavaScript, TypeScript, Node.js, MySQL.
