@@ -28,6 +28,6 @@
 - **Design:** Photoshop, Adobe XD, Figma.
 
 ### 📊 Stats:  
-https://github-readme-stats.vercel.app/api?username=aleotinano
+(https://github-readme-stats.vercel.app/api?username=aleotinano)
 
 ### 💌 Contact me:
