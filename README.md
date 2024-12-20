@@ -1,4 +1,4 @@
-<p align="left" font-size="2.2rem" font-weight="bold">Hi! My name is Alejandro 👋</p>
+<p align="left" font-size="50px" font-weight="bold">Hi! My name is Alejandro 👋</p>
 <p align="left" font-size="1.5rem;">I am a frontend developer passionate about web development.</p>
 <p align="left" font-size="1rem;">
   🦄 <strong>Languages:</strong> HTML, CSS, JavaScript, TypeScript, Node.js, MySQL.
