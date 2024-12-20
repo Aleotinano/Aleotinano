@@ -4,9 +4,10 @@
  Hi! My name is Alejandro 👋
 </h1>
  
- <br>
+ <br>}
+<h3 align="left"> 
  ## I am a frontend developer passionate about web development.
-</p>
+</h3>
 
 <p align="left">
   🦄  ## Languages: HTML, CSS, JavaScript, TypeScript, Node.js, MySQL.
