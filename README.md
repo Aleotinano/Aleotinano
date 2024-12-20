@@ -1,5 +1,8 @@
-# Hi! My name is Alejandro 👋  
+<p>
+  # Hi! My name is Alejandro 👋  
 ## I am a frontend developer passionate about web development.
+</p>
+
 
 ### 🦄 Languages:  
 - **Frontend:** HTML, CSS, JavaScript, TypeScript.  
