@@ -30,5 +30,7 @@
 ### 📊 Stats:  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleotinano&show_icons=true&theme=radical)
 
+[![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=blasfemico&layout=compact&theme=radical)]
+
 
 ### 💌 Contact me:
