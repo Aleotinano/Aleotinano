@@ -1,10 +1,11 @@
 <p>
   <h1>
-      Hi! My name is Alejandro 👋  
-  </h1> 
-  <h2>
+      Hi! My name is Alejandro 👋
+     <h2>
       I am a frontend developer passionate about web development.
   </h2>
+  </h1> 
+ 
 </p>
 
 
@@ -31,8 +32,7 @@
 
 <div display="flex">
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleotinano&show_icons=true&theme=radical)
-
-![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aleotinano&layout=compact&theme=radical)
+  ![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aleotinano&layout=compact&theme=radical)
 </div>
 
 
