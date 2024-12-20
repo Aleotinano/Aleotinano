@@ -1,8 +1,10 @@
 <p>
   <h1>
-    Hi! My name is Alejandro 👋  
+      Hi! My name is Alejandro 👋  
   </h1> 
-## I am a frontend developer passionate about web development.
+  <h2>
+      I am a frontend developer passionate about web development.
+  </h2>
 </p>
 
 
@@ -23,7 +25,9 @@
 
 ### 💼 Tools:  
 - **Development:** GitHub, Visual Studio, Yaak.  
-- **Design:** Photoshop, Adobe XD, Figma.  
+- **Design:** Photoshop, Adobe XD, Figma.
 
-💌 I am here to collaborate on new projects and provide creative and effective solutions!  
-Feel free to contact me through my email or social media: ⤵️  
+### 📊 Stats:  
+https://github-readme-stats.vercel.app/api?username=aleotinano
+
+### 💌 Contact me:
