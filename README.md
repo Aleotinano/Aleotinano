@@ -1,5 +1,7 @@
 <p>
-  # Hi! My name is Alejandro 👋  
+  <h1>
+    Hi! My name is Alejandro 👋  
+  </h1> 
 ## I am a frontend developer passionate about web development.
 </p>
 
