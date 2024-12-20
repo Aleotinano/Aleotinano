@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 <h1 align="left"> 
  Hi! My name is Alejandro 👋
