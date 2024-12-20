@@ -1,6 +1,6 @@
 
 
-<h1 align="left"> 
+<h1 align="left" borber="none"> 
  Hi! My name is Alejandro 👋
 </h1>
 <h2 align="left"> 
