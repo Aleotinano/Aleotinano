@@ -1,6 +1,6 @@
 
 
-<h1 align="left" borber="none">Hi! My name is Alejandro 👋</h1>
+<h1 align="left" border="none">Hi! My name is Alejandro 👋</h1>
 <h2 align="left"> 
  I am a frontend developer passionate about web development.
 </h2>
