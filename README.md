@@ -3,14 +3,13 @@
 <h1 align="left"> 
  Hi! My name is Alejandro 👋
 </h1>
- <br>
 <h2 align="left"> 
- ## I am a frontend developer passionate about web development.
+ I am a frontend developer passionate about web development.
 </h2>
 
-<p align="left">
-  🦄  ## Languages: HTML, CSS, JavaScript, TypeScript, Node.js, MySQL.
-</p>
+<h3 align="left">
+  🦄 Languages: HTML, CSS, JavaScript, TypeScript, Node.js, MySQL.
+</h3>
 
 <p align="left">
   💼 **Tools:** React, Photoshop, GitHub, Adobe XD, Figma, Yaak.
