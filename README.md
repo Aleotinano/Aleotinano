@@ -28,7 +28,7 @@
 - **Design:** Photoshop, Adobe XD, Figma.
 
 ### 📊 Stats:  
-![GitHub stats]([https://github-readme-stats.vercel.app/api?username=blasfemico](https://github-readme-stats.vercel.app/api?username=aleotinano)&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleotinano&show_icons=true&theme=radical)
 
 
 ### 💌 Contact me:
