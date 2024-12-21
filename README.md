@@ -39,31 +39,12 @@
 
 ### 💌 Contact me:
 
-<a href="https://www.linkedin.com/in/aleotinano" target="_blank">
-  <img src="https://github.com/user-attachments/assets/6503e98d-f1c2-4da3-bbb8-52b093186c74" width="20px" height="20px">
-  <strong>LinkedIn</strong>
-</a>
+### 💌 Contact me:
 
-<br>
-
-<a href="https://es.fiverr.com/aleotinano" target="_blank">
-  <img src="https://github.com/user-attachments/assets/f228a235-dd01-4c7a-92db-d36d2bbb840f" width="20px" height="20px">
-  <strong>Fiverr</strong>
-</a>
-
-<br>
-
-<a href="mailto:alejandrootinano2@gmail.com">
-  <img src="https://github.com/user-attachments/assets/61270d07-d828-4f8c-acdf-1afb1ec11ff4" width="20px" height="20px">
-  <strong>Gmail</strong>
-</a>
-
-<br>
-
-<a href="https://wa.me/542646779473" target="_blank">
-  <img src="https://github.com/user-attachments/assets/5f4388df-58dd-414d-bba9-788ea23b8c02" width="20px" height="20px">
-  <strong>WhatsApp</strong>
-</a>
+[![LinkedIn](https://github.com/user-attachments/assets/6503e98d-f1c2-4da3-bbb8-52b093186c74)](https://www.linkedin.com/in/aleotinano) **LinkedIn**  
+[![Fiverr](https://github.com/user-attachments/assets/f228a235-dd01-4c7a-92db-d36d2bbb840f)](https://es.fiverr.com/aleotinano) **Fiverr**  
+[![Gmail](https://github.com/user-attachments/assets/61270d07-d828-4f8c-acdf-1afb1ec11ff4)](mailto:alejandrootinano2@gmail.com) **Gmail**  
+[![WhatsApp](https://github.com/user-attachments/assets/5f4388df-58dd-414d-bba9-788ea23b8c02)](https://wa.me/542646779473) **WhatsApp**
 
 
 
