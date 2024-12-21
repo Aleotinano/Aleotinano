@@ -1,4 +1,4 @@
-![linkedin-brands-solid](https://github.com/user-attachments/assets/4e605ede-56f2-447d-a1d6-e1288e2fc5f6)# Hi! My name is Alejandro 👋
+# Hi! My name is Alejandro 👋
 ### I am a frontend developer passionate about web development.
 
 <br>
@@ -39,10 +39,32 @@
 
 ### 💌 Contact me:
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/0b/LinkedIn_icon.svg)](https://www.linkedin.com/in/aleotinano)
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/95/Octicons-mark-github.svg)](https://github.com/aleotinano)
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/a/a0/Gmail_Logo_2022.svg)](mailto:aleotinano@gmail.com)
-[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Logo_Twitter.svg)](https://twitter.com/aleotinano)
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/aleotinano" target="_blank">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="30" height="30">
+    <path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/>
+  </svg>
+</a>
 
+<!-- GitHub -->
+<a href="https://github.com/aleotinano" target="_blank">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="30" height="30">
+    <path d="M8 0a8 8 0 0 0-2.513 15.598c.396.073.54-.172.54-.384v-1.48c-2.216.484-2.68-.846-2.68-.846-.361-.917-.881-1.163-.881-1.163-.72-.49.054-.481.054-.481.796.055 1.213.822 1.213.822.696 1.19 1.829.847 2.272.648.071-.505.272-.847.494-1.043-1.703-.194-3.489-.851-3.489-3.782 0-.834.298-1.518.79-2.048-.079-.195-.342-.986.072-2.074 0 0 .64-.205 2.097.78.608-.168 1.256-.253 1.904-.253 1.77 0 3.289.718 3.289 2.284 0 1.444-.717 2.59-2.066 2.828 1.219.617 1.829 1.965 1.829 3.694v1.315c0 .213.14.458.543.384A8 8 0 0 0 8 0z"/>
+  </svg>
+</a>
+
+<!-- Gmail -->
+<a href="mailto:aleotinano@gmail.com" target="_blank">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="30" height="30">
+    <path d="M0 6v36h48V6H0zm46 2v1.5L24 21 2 9.5V8h44zM2 39V10.5l22 11.5 22-11.5V39H2z"/>
+  </svg>
+</a>
+
+<!-- Twitter -->
+<a href="https://twitter.com/aleotinano" target="_blank">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="30" height="30">
+    <path d="M23.7 4.6c-.9.4-1.8.7-2.7.8.9-.5 1.6-1.3 2-2.3-.8.5-1.7.8-2.6.9-.8-.8-2-1.3-3.2-1.3-2.4 0-4.3 2-4.3 4.3 0 .3.1.7.2 1-3.6-.2-6.8-1.9-8.9-4.5-.4.7-.6 1.5-.6 2.4 0 1.7.9 3.2 2.2 4.1-1-.1-2-.3-2.9-.7v.1c0 2.3 1.6 4.3 3.7 4.7-.4.1-.7.1-1.1.1-.3 0-.7 0-1-.1.7 2.3 2.8 3.9 5.2 3.9-1.9 1.5-4.3 2.4-6.8 2.4-.4 0-.8 0-1.1-.1 2.4 1.6 5.3 2.5 8.2 2.5 9.8 0 15.2-8.1 15.2-15.2 0-.2 0-.3 0-.5.7-.5 1.3-1.1 1.8-1.8z"/>
+  </svg>
+</a>
 
 
