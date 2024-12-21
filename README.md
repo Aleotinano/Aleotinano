@@ -41,7 +41,7 @@
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/aleotinano" target="_blank">
-  ![image](https://github.com/user-attachments/assets/97da6cfc-a3a7-4a03-b282-34544c22a1ef)
+  <img src="https://github.com/user-attachments/assets/6503e98d-f1c2-4da3-bbb8-52b093186c74" >
 </a>
 
 <!-- GitHub -->
