@@ -27,7 +27,7 @@
 
 ### 📊 Stats:
 
-![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aleotinano&layout=compact&theme=radical) 
+![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aleotinano&layout=compact&theme=radical)
 
 <br>
 
@@ -37,7 +37,7 @@
 
 ### 💌 Contact me:
 
-![Linkedin: ](https://www.linkedin.com/in/aleotinano)
+![Linkedin:](https://www.linkedin.com/in/aleotinano)
 
 
 
