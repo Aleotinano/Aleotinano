@@ -53,7 +53,7 @@
     <strong>Gmail</strong>
   </a>
 
-  <a href="https://wa.me/542646779473" target="_blank" style="display: flex; align-items: center; text-decoration: none;">
+  <a href="https://wa.me/542646779473" target="_blank" text-aling="center" text-decoration="none;">
     <img src="https://github.com/user-attachments/assets/6ce1377d-49f8-4d14-9f47-a2431e9c3441" width="20px" height="20px" style="margin-right: 8px;">
     <strong>WhatsApp</strong>
   </a>
