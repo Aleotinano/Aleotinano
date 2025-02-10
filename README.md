@@ -2,7 +2,7 @@
 ### I am a frontend developer passionate about web development.
 
 ### 🦄 Languages:  
-- **Frontend:** HTML, CSS, JavaScript, TypeScript.  
+- **Frontend:** HTML, CSS, JavaScript.  
 - **Backend:** Node.js (with Express), MySQL.
 
 ### 📚 Skills:  
@@ -11,11 +11,11 @@
 - UI/UX Design.  
 - Cookie Management.  
 
-
 ### 🚀 Frameworks & Libraries:  
 - React.  
 - Bootstrap.  
-- Material-UI.  
+- Material-UI.
+- Electron.js
 
 ### 💼 Tools:  
 - **Development:** GitHub, Visual Studio, Yaak.  
